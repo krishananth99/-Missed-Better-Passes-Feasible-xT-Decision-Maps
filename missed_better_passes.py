@@ -874,7 +874,6 @@ plot_pass_map(build_feasible_passes_snapshot(PI, pass_snapshots, tracking_home_n
 snapshot_PI = build_feasible_passes_snapshot(PI, pass_snapshots, tracking_home_norm, tracking_away_norm, xT_grid)
 snapshot_PI
 
-!jupyter nbconvert --to script Missed_Better_Passes.ipynb
 
 def plot_pass_map(pass_df, pass_id, tracking_home_norm, tracking_away_norm,
                   show_actual=True, show_better=True, show_all=False):
