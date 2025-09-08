@@ -118,3 +118,11 @@ This is not just “counting passes” — it’s **measuring decision-making qu
 This project uses **Metrica Sports Free Sample Dataset 1**, available on their [GitHub repository](https://github.com/metrica-sports).  
 Files were uploaded to Google Drive and accessed in Google Colab.  
 No other external datasets or paid sources were used.  
+
+## Credits
+
+- xT (Expected Threat) concept popularized by Karun Singh (Friends of Tracking).
+- socceraction: Open-source library that implements xThreat and soccer analytics tooling.
+- mplsoccer by Andrew Rowlinson: pitch plotting utilities and tutorials used as inspiration for the xT workflow.
+- StatsBomb Open Data & statsbombpy (if you use their datasets).
+- Community research on xPass, pitch control, and receiver accessibility which this feasibility framework is designed to incorporate.
