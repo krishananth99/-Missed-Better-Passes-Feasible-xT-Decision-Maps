@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1fQpwShRQANmvhFgf4GVc6zzlo6iQJhWM
 """
 
-pip install mplsoccer
+
 
 from google.colab import drive
 drive.mount('/content/drive')
@@ -314,7 +314,7 @@ def is_line_break(end_x, defenders_x):
 	•	Use SoccerAction library (socceraction.xthreat) for state-of-art xT.
 """
 
-pip install mplsoccer
+
 
 import numpy as np
 
