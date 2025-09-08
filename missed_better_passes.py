@@ -876,8 +876,6 @@ snapshot_PI
 
 !jupyter nbconvert --to script Missed_Better_Passes.ipynb
 
-pip install streamlit
-
 def plot_pass_map(pass_df, pass_id, tracking_home_norm, tracking_away_norm,
                   show_actual=True, show_better=True, show_all=False):
     """
