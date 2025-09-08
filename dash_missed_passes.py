@@ -197,4 +197,3 @@ def update_graph(passer_x, passer_y, a2x, a2y, a3x, a3y, a4x, a4y, a5x, a5y, d1x
 
 if __name__ == '__main__':
     app.run_server(debug=True)
-
